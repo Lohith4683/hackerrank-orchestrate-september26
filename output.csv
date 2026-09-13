@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_27,72641.8,affordable_with_plan,installments,2026-07-05:6670,2026-07-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_28,689.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_29,51524,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_30,775.2,affordable_now,full_payment,2026-04-06:775.2,2026-04-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_31,13840360,affordable_later,wait,2024-09-14:18164000,2024-09-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_32,33305.8,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_33,65180,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_35,125130,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_36,1446.6,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_37,12068800,affordable_later,wait,2024-03-17:14649000,2024-03-17,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_38,379.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_39,203105,affordable_later,wait,2026-04-15:208600,2026-04-15,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_40,894,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_41,24809250,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_42,148665,affordable_with_plan,installments,2026-01-05:52100,2026-01-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_43,15242750,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_44,79390,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_45,8833100,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_46,49450,affordable_now,full_payment,2024-12-03:49450,2024-12-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_47,38114000,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_48,116765,affordable_with_plan,installments,2026-07-25:45700,2026-07-25,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_49,20228793.34,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_52,28870,affordable_now,full_payment,2024-06-05:28870,2024-06-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_53,1423.42,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_54,16581.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_55,190041.19,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-06-14,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_56,881.56,affordable_now,full_payment,2025-02-03:881.56,2025-02-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_57,21214.6,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_58,27712165,affordable_with_plan,installments,2024-12-07:16226000,2024-12-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_59,140600,affordable_now,full_payment,2025-05-04:140600,2025-05-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_60,283.69,affordable_with_plan,installments,2026-01-06:199.89,2026-01-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_61,110770.23,affordable_with_plan,installments,2024-03-03:29062,2024-03-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_63,98295,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_64,62473.01,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_65,13024,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_66,221820,affordable_with_plan,installments,2026-04-03:22200,2026-04-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_67,792.54,affordable_later,wait,2024-09-14:2094,2024-09-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_68,2091.6,affordable_now,full_payment,2025-02-07:2091.6,2025-02-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,2026-01-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_70,93360,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_71,7485050,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_72,18137.13,affordable_with_plan,installments,2026-07-05:11330,2026-07-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,The requested amount can be paid now while keeping the required minimum balance.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_75,106867.87,affordable_with_plan,installments,2026-04-06:28270,2026-04-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_76,1538.8,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_77,107660.5,affordable_with_plan,installments,2025-11-05:60700,2025-11-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_78,50200,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,The requested amount can be paid now while keeping the required minimum balance.
+request_79,1104.08,affordable_later,wait,2024-09-14:2151.6,2024-09-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_80,158825,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_81,3428.25,affordable_with_plan,installments,2026-07-03:2076,2026-07-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_82,1102.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_83,31130,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_84,62645,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_85,2422120,affordable_later,wait,2024-04-17:19304000,2024-04-17,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_87,92850,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_88,15557.89,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-06-14,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_89,13756000,affordable_now,full_payment,2025-11-04:13756000,2025-11-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_90,24029.5,affordable_with_plan,installments,2026-07-06:2560,2026-07-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_91,2109.6,affordable_with_plan,installments,2024-09-03:1927.2,2024-09-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_93,2062.1,affordable_with_plan,installments,2026-04-07:1729.2,2026-04-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_95,137865,affordable_later,wait,2025-06-14:553000,2025-06-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_96,90200,affordable_now,full_payment,2026-01-03:90200,2026-01-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_97,8865.89,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-03-15,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_98,17244.7,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_100,35863.53,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-14,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_101,278468.5,affordable_with_plan,installments,2025-11-03:143500,2025-11-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_102,1716,affordable_now,full_payment,2026-04-05:1716,2026-04-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_103,43249,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_105,73931.8,affordable_with_plan,installments,2026-06-08:53500,2026-06-08,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_106,1401.7,affordable_later,wait,2024-12-16:2207.7,2024-12-16,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_107,2534.4,affordable_now,full_payment,2025-05-05:2534.4,2025-05-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_108,7836.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_109,1276.46,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-03-15,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_110,22352,affordable_now,full_payment,2025-08-06:22352,2025-08-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_112,526,affordable_with_plan,installments,2024-06-05:271.7,2024-06-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_113,59590,affordable_with_plan,installments,2026-09-04:36500,2026-09-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_114,105830,affordable_with_plan,installments,2026-01-04:65300,2026-01-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_115,27135,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_116,58075,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_117,1164.2,affordable_with_plan,installments,2026-07-05:880,2026-07-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_118,938.51,affordable_with_plan,installments,2024-12-07:738.1,2024-12-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_119,130901.01,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_120,11698680,affordable_with_plan,installments,2026-04-06:7714000,2026-04-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.6,2024-03-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_122,44238744.99,affordable_with_plan,installments,2025-08-05:20558000,2025-08-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_124,2109.56,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-06-14,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_125,10727.97,affordable_with_plan,installments,2025-11-06:6468,2025-11-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_126,273475,affordable_with_plan,installments,2026-07-03:159600,2026-07-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_127,25058,affordable_with_plan,installments,2024-09-05:23980,2024-09-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_129,288,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_130,917.46,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_131,1855.2,affordable_now,full_payment,2025-05-03:1855.2,2025-05-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_133,15770000,affordable_now,full_payment,2024-03-07:15770000,2024-03-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_134,12118200,affordable_later,wait,2025-08-15:21831000,2025-08-15,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_135,541.1,affordable_with_plan,installments,2026-07-06:304.8,2026-07-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_136,560.4,affordable_now,full_payment,2024-06-03:560.4,2024-06-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_137,67960,affordable_later,wait,2025-11-14:80100,2025-11-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_138,1344.65,affordable_with_plan,installments,2026-04-07:1256.94,2026-04-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_139,2267.84,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-09-14,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_140,13079,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_141,55245,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_142,4293.85,affordable_with_plan,installments,2024-12-05:1263.6,2024-12-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_143,8811,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_144,648.08,affordable_with_plan,installments,2026-07-04:233.34,2026-07-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_145,105613.66,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-03-17,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_146,81465,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_147,741.53,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_148,13181.08,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_149,36652,affordable_now,full_payment,2025-11-04:36652,2025-11-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_150,557.44,affordable_with_plan,installments,2026-01-06:496.1,2026-01-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_151,52364665,affordable_with_plan,installments,2024-09-03:26999000,2024-09-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_152,16468.77,affordable_with_plan,installments,2025-02-05:13882,2025-02-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_153,503.6,affordable_later,wait,2026-08-14:2830.8,2026-08-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_154,3379.4,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_155,112500,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_156,15205.3,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_157,10091850,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_158,242600,affordable_now,full_payment,2025-08-07:242600,2025-08-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_160,944.61,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-06-14,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_161,18297950,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_162,10446200,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_163,19304000,affordable_now,full_payment,2024-09-07:19304000,2024-09-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_164,45878669.2,affordable_with_plan,installments,2025-02-04:27018000,2025-02-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_165,271705,affordable_with_plan,installments,2026-04-06:80600,2026-04-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_166,7301.95,affordable_with_plan,installments,2024-12-03:2907.6,2024-12-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_167,73890.3,affordable_with_plan,installments,2025-05-05:43802,2025-05-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_168,59443,affordable_with_plan,installments,2026-01-07:49380,2026-01-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_170,36936000,affordable_now,full_payment,2025-08-06:36936000,2025-08-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_171,310.65,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_172,23742.4,affordable_with_plan,installments,2024-06-05:10200,2024-06-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_173,83190.53,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_174,1146.2,affordable_now,full_payment,2026-04-04:1146.2,2026-04-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_176,686.95,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_177,1687.24,affordable_with_plan,installments,2026-01-05:1017.6,2026-01-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_178,6559.3,affordable_with_plan,installments,2024-12-07:2938.1,2024-12-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_179,37957250,affordable_later,wait,2025-05-15:41648000,2025-05-15,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_180,66500,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_181,1362,affordable_later,wait,2024-03-17:5059.2,2024-03-17,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_183,30277923.74,affordable_with_plan,installments,2026-04-07:26866000,2026-04-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_184,52360,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_185,783.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_186,22863.5,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_187,67435,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_188,585.3,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_190,1555.8,affordable_later,wait,2024-12-15:2557.5,2024-12-15,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_191,1091.06,affordable_with_plan,installments,2025-05-03:664.4,2025-05-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_192,384.8,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_193,310.62,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-03-17,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_194,95030,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_195,1311.18,affordable_with_plan,installments,2026-01-06:1170.4,2026-01-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_197,50939000,affordable_now,full_payment,2025-11-05:50939000,2025-11-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_198,270890,affordable_with_plan,installments,2026-07-07:185800,2026-07-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_199,111332318.94,affordable_with_plan,installments,2024-09-04:23674000,2024-09-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_200,33771550,affordable_with_plan,installments,2025-02-06:21717000,2025-02-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_201,60668900,affordable_with_plan,installments,2026-04-03:23997000,2026-04-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_202,218265,affordable_with_plan,installments,2024-12-05:123900,2024-12-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_203,1442.1,affordable_now,full_payment,2025-05-07:1442.1,2025-05-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,2026-01-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_206,1404.7,affordable_now,full_payment,2025-08-03:1404.7,2025-08-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_207,11830,affordable_now,full_payment,2026-07-05:11830,2026-07-05,none,The requested amount can be paid now while keeping the required minimum balance.
+request_208,6458100,affordable_with_plan,installments,2024-06-07:4413000,2024-06-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_209,8625.1,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_210,1525.32,affordable_with_plan,installments,2026-04-06:1360.02,2026-04-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_211,1227.89,affordable_later,wait,2024-09-14:1788.6,2024-09-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_212,22344000,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_213,9951.94,affordable_with_plan,installments,2026-01-07:3362.4,2026-01-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_214,117280,affordable_with_plan,installments,2024-12-04:69750,2024-12-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_215,78251.16,affordable_with_plan,installments,2025-05-06:29986,2025-05-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_216,1166.8,affordable_later,wait,2026-08-14:3332.4,2026-08-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_217,31601.97,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-03-15,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_218,37942414.8,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-08-15,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_219,1715.51,affordable_with_plan,installments,2026-04-04:1673.1,2026-04-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_220,387.32,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_221,186805,affordable_with_plan,installments,2025-11-03:109800,2025-11-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_222,90801.7,affordable_with_plan,installments,2026-01-05:34078,2026-01-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_224,27781800,affordable_with_plan,installments,2025-02-04:10327000,2025-02-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_225,18120459.6,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_227,42755,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_228,10557350,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_229,800.52,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,2025-08-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_231,35706,affordable_now,full_payment,2026-01-03:35706,2026-01-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_232,1869.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_233,6241000,affordable_now,full_payment,2025-11-07:6241000,2025-11-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_234,574.25,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_235,1386.28,affordable_with_plan,installments,2024-09-06:967.2,2024-09-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_236,14404850,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_237,78393050,affordable_with_plan,installments,2026-04-05:23826000,2026-04-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_238,1182.07,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_239,642,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_240,39920,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_241,70920322.14,affordable_with_plan,installments,2024-03-03:21052000,2024-03-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_242,437.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_244,49918,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,The requested amount can be paid now while keeping the required minimum balance.
+request_245,65760,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_246,162392.06,affordable_with_plan,installments,2026-04-03:64086,2026-04-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_247,1519.2,affordable_with_plan,installments,2024-09-05:1059.3,2024-09-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_248,1507.36,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_249,342.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_250,28820,affordable_later,wait,2025-01-16:124278,2025-01-16,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_251,1513.6,affordable_now,full_payment,2025-05-03:1513.6,2025-05-03,none,The requested amount can be paid now while keeping the required minimum balance.
+request_252,10098500,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_253,2335.57,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_254,1759.6,affordable_later,wait,2025-08-08:3535.2,2025-08-08,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_256,226383.28,affordable_with_plan,installments,2024-06-03:218700,2024-06-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_257,1085.2,affordable_later,wait,2025-11-14:1352.4,2025-11-14,none,Waiting until the earliest safe date avoids dropping below the required minimum balance.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.6,2026-01-07,none,The requested amount can be paid now while keeping the required minimum balance.
+request_259,669.3,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_260,15059400,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_261,3218.96,affordable_with_plan,installments,2026-07-03:1830.4,2026-07-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_262,57387600,affordable_with_plan,installments,2024-12-05:9236000,2024-12-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_263,14718,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_264,44875,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,The requested amount can be paid now while keeping the required minimum balance.
+request_266,1454.92,affordable_with_plan,installments,2025-08-03:935,2025-08-03,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_267,2148.98,affordable_with_plan,installments,2026-01-05:1925,2026-01-05,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_268,1512.52,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-06-14,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_269,22207.9,affordable_with_plan,installments,2025-11-04:15490,2025-11-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_270,535.4,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_271,84760,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_272,8815924,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_273,13372200,not_affordable,not_recommended,none,,none,The requested payment cannot be made safely within the available forecast and deadline.
+request_274,3047.31,affordable_with_plan,installments,2024-12-04:2713.7,2024-12-04,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
+request_275,24446350,affordable_with_plan,installments,2025-05-06:15884000,2025-05-06,none,The available installment option completes the purchase by the requested deadline without breaching the minimum balance.
